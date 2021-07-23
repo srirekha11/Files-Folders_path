@@ -1,0 +1,21 @@
+[{
+    "id": "1",
+    "title": "Two states",
+    "price": "250",
+    "rating": "5",
+    "cart": "false"
+},
+{
+    "id": "2",
+    "title": "Invisible Man",
+    "price": "500",
+    "rating": "3",
+    "cart": "false"
+},
+{
+    "id": "3",
+    "title": "Don Quixote",
+    "price": "700",
+    "rating":" 2",
+    "cart": "false"
+}]
